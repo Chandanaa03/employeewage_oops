@@ -22,18 +22,18 @@ namespace oopsobj
 
             //obj.Employeeaatendence();
 
-            employeewage obj = new employeewage();
+            //employeewage obj = new employeewage();
 
-            //Console.WriteLine("obj.employeewage");
+            ////Console.WriteLine("obj.employeewage");
 
-            obj.Employeewages();
+            //obj.Employeewages();
 
 
-            //empswitch obj = new empswitch();
+            empswitch obj = new empswitch();
 
             //Console.WriteLine(obj.empswitch);
 
-            //obj.Employeeswitchcase();
+            obj.Employeeswitchcase();
 
             //calculatewages obj = new calculatewages();
             //obj.calculate_wage();
