@@ -38,12 +38,12 @@ namespace oopsobj
             //calculatewages obj = new calculatewages();
             //obj.calculate_wage();
 
-            computewages obj = new computewages();
-            obj.wages();
+            //computewages obj = new computewages();
+            //obj.wages();
 
-            //multiplecompany obj = new multiplecompany();
-            //obj.ComputeWages("DMART",20,2,10);
-            //obj.ComputeWages("JIOMART", 20, 2, 10);
+            multiplecompany obj = new multiplecompany();
+            obj.ComputeWages("DMART", 20, 2, 10);
+            obj.ComputeWages("JIOMART", 20, 2, 10);
 
 
 
